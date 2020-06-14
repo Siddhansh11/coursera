@@ -1,0 +1,46 @@
+/*ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;	
+}
+
+li
+{
+		float:right;
+}
+
+li a
+{
+	color: white;
+	display: inline-block;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family:  sans-serif;
+	margin: 3px;
+}
+
+ li a:hover
+{
+	background-color: rgb(0, 191, 255);
+	color: #333;
+	border-radius: 8px;
+
+
+}
+
+*/
+li a{
+	color: rgba(197, 23, 23, 0.507) !important;
+}
+
+.card-link{
+	color: #8FE020;
+}
+
+
+a:hover {
+	color: rgba(223, 20, 20, 0.555) !important; 
+}
