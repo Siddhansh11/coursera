@@ -32,7 +32,7 @@ li a
 }
 
 */
-li a{
+/* li a{
 	color: rgba(101, 221, 195, 0.671) !important;
 }
 
@@ -43,7 +43,7 @@ li a{
 
 a:hover {
 	color: rgba(7, 247, 127, 0.555) !important; 
-}
+} */
 
 /* img
 {
@@ -53,7 +53,7 @@ a:hover {
 	background-position: center;
 	background-repeat: no-repeat;
 } */
-img {
+/* img {
 	width: 100%;
 	height: 100vh;
 	background-repeat: no-repeat;
@@ -64,8 +64,6 @@ img {
 .text{
 	text-align: center;
 	color: rgb(41, 146, 179);  
-	/* background-color: blueviolet; */
-	background-image: url("/images/back.jpg");
 	background-size: cover;
 	width: 100%;
 	height: 100vh;
@@ -76,4 +74,70 @@ img {
 	color:rgb(252, 253, 253);
 	height: 30vh;
 	font-size: 100px;
+}	 */
+
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.box
+{
+	width: 100%;
+	height: 600px;
+	padding: 40px 60px;
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+
+.section-1
+{
+	height: 90vp;
+	background:100% url(/images/IMG_20191029_091154.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: rgba(0, 0, 0, 0.863);
+	width: 100%;
+	/* height: 110vp; */
+}
+
+.section-2
+{
+	background: rgb(57, 182, 231);
+}
+
+.section-3
+{
+	background-image: url(/images/IMG_20191029_091820.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.section-4
+{
+   background:rgb(202, 133, 191);
+}
+
+.section-5
+{
+	background-image:url(/images/IMG_20191029_094312.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.section-6
+{
+   background:rgb(52, 148, 143);
+}
+.box h1
+{
+	font-size: 50px;
+	text-shadow: 2px 2px 2px black	;
+}
+.manaswi
+{
+	float: right;
+	width:250px;
+	height: 400px;
+	border-radius: 50%;
 }
