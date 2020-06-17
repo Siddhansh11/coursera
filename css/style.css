@@ -95,7 +95,7 @@ a:hover {
 .section-1
 {
 	height: 90vp;
-	background:100% url(/images/IMG_20191029_091154.jpg);
+	/* background:100% url(/images/IMG_20191029_091154.jpg); */
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: rgba(0, 0, 0, 0.863);
@@ -110,7 +110,7 @@ a:hover {
 
 .section-3
 {
-	background-image: url(/images/IMG_20191029_091820.jpg);
+	/* background-image: url(/images/IMG_20191029_091820.jpg); */
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -121,7 +121,7 @@ a:hover {
 
 .section-5
 {
-	background-image:url(/images/IMG_20191029_094312.jpg);
+	/* background-image:url(/images/IMG_20191029_094312.jpg); */
 	background-attachment: fixed;
 	background-size: cover;
 }
